@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DKIET11122
+- 👋 Hi, I’m kiet-dong
 - 👀 I’m interested in coding and learning stuff
 - 🌱 I’m currently learning about python and data sciene
 - 💞️ I’m looking to collaborate on idk honestly  
